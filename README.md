@@ -29,7 +29,9 @@
 
 <img align="left" alt="Postman" width="26px" src="https://toolsqa.com/wp-content/uploads/2018/04/postman.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="Express" width="26px" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" />
+
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
