@@ -1,7 +1,7 @@
 ### Hi there ! My name is Zlatko Marjanović 👋
 
 
-## I'm a Student, Volunteer, Scholar, and Developer !!
+## I'm a Student, Volunteer, Scholar, and a Developer !!
 
 - 💻 2nd Year IT Student at : [International Business Information Academy Tuzla][school] 
 - 🇧🇦 Scholar & Volunteer at : [BH Futures Foundation][bhff] 
