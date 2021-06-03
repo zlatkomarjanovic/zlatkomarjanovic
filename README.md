@@ -3,15 +3,15 @@
 
 ## I'm a Student, Volunteer, Scholar, and Developer !!
 
-- 💻 IT Student at : [International Business Information Academy Tuzla][school] !
-- 🇧🇦 Working on achieving my dreams at : [BH Futures Foundation][bhff] !
+- 💻 IT Student at : [International Business Information Academy Tuzla][school] 
+- 🇧🇦 Working on achieving my dreams at : [BH Futures Foundation][bhff] 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/artist/1X8XF3EPveAxHbEWdKg8j9)
 
 ### Connect with me:
 
