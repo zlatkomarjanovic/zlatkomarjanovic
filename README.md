@@ -8,6 +8,7 @@
 - ✔️ I’m looking to collaborate with other content creators & developers
 - ✔️ Open to remote work & freelancing opportunities
 - ✔️ IEEE, BOLD BiH, HackAtHome Fellow 
+- ✔️ Entrepereneur in making 
 
 
 
