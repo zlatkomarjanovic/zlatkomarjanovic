@@ -4,7 +4,7 @@
 ## I'm a Student, Volunteer, Scholar, and Developer !!
 
 - 💻 IT Student at : [International Business Information Academy Tuzla][school] !
-- 🌱 I’m currently learning everything 🤣
+- 🇧🇦 Working on achieving my dreams at :  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
