@@ -1,14 +1,14 @@
 ### Hi there ! My name is Zlatko Marjanović 👋
 
 
-## I'm a Student, Volunteer, Scholar, and a Developer !!
+## I'm a Developer, Student, Volunteer, Scholar & Entrepreneur !!
 
 - 💻 2nd Year IT Student at : [International Business Information Academy Tuzla][school] 
 - 🇧🇦 Scholar & Volunteer at : [BH Futures Foundation][bhff] 
 - ✔️ I’m looking to collaborate with other content creators & developers
 - ✔️ Open to remote work & freelancing opportunities
 - ✔️ IEEE, BOLD BiH, HackAtHome Fellow 
-- ✔️ Entrepereneur in making 
+- ✔️ Entrepereneur 
 
 
 
