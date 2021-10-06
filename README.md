@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Student, Volunteer, Scholar & Entrepreneur !!
 
-- 💻 2nd Year IT Student at : [International Business Information Academy Tuzla][school] 
+- 💻 3rd Year IT Student at : [International Business Information Academy Tuzla][school] 
 - 🇧🇦 Scholar & Volunteer at : [BH Futures Foundation][bhff] 
 - ✔️ I’m looking to collaborate with other content creators & developers
 - ✔️ Open to remote work & freelancing opportunities
