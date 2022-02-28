@@ -6,7 +6,7 @@
 - 💻 3rd Year IT Student at : [International Business Information Academy Tuzla][school] 
 - 🇧🇦 Scholar & Volunteer at : [BH Futures Foundation][bhff] 
 - ✔️ I’m looking to collaborate with other content creators & developers
-- ✔️ Open to remote work & freelancing opportunities
+- ✔️ Open to work & freelancing opportunities
 - ✔️ IEEE, BOLD BiH, HackAtHome Fellow 
 - ✔️ Bicom Systems Hackathon Winning Team Lead 
 - ✔️ Entrepereneur 
