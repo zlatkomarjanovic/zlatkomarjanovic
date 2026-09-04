@@ -1,26 +1,31 @@
-<div align="center">
+<p align="center">
+  <a href="https://zlatkomarjanovic.com">
+    <img src="./assets/cover.jpg" alt="Zlatko Marjanović — zlatkomarjanovic.com" width="100%" />
+  </a>
+</p>
 
-<img src="https://zlatkomarjanovic.com/images/Zlatko-Marjanovic-SVG-Logo.svg" alt="Zlatko Marjanović" width="64" />
+<div align="center">
 
 # Zlatko Marjanović
 
-### AI Product Developer
+### AI Product Developer · Cursor, Claude Code, Next.js, Supabase
 
-**Cursor · Claude Code · Next.js · Supabase**
+I take AI-generated and vibe-coded prototypes and ship them as production products.<br />
+Auth, data, payments, deploy, then I stay as the person who owns the roadmap.
 
-I take AI-generated prototypes and ship production products.<br />
-Then I stay on as the person who owns the thing.
+7+ years building for SaaS, healthcare, wellness, real estate, and nonprofits.<br />
+Based in Bosnia (CET). Full-time. Long-term product seats.
 
 <br />
 
 <a href="https://zlatkomarjanovic.com"><img src="https://img.shields.io/badge/Portfolio-zlatkomarjanovic.com-0d1117?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://cal.com/zlatkom/15min"><img src="https://img.shields.io/badge/Book_a_call-15_min-1f7a4d?style=for-the-badge" alt="Book a call" /></a>
 <a href="https://upwork.com/freelancers/webflowzlatko"><img src="https://img.shields.io/badge/Upwork-100%25_JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-<a href="mailto:zlatkomarjanovic.zm@gmail.com"><img src="https://img.shields.io/badge/Email-hire_me-2d2d2d?style=for-the-badge" alt="Email" /></a>
+<a href="mailto:zlatkomarjanovic.zm@gmail.com"><img src="https://img.shields.io/badge/Email-zlatkomarjanovic.zm@gmail.com-2d2d2d?style=for-the-badge" alt="Email" /></a>
 
 <br />
 
-`7+ years` `120+ projects` `$100K+ earned` `50+ five-star reviews`
+`7+ years` `120+ projects` `80+ five-star reviews` `100% Upwork JSS`
 
 </div>
 
@@ -91,21 +96,6 @@ Spreadsheet-style bulk edit for Framer collections. Find/replace, CSV, validatio
 </td>
 <td width="50%" valign="top">
 
-<a href="https://konyx-gold.vercel.app">
-  <img src="./assets/konyx.jpg" alt="Konyx" width="100%" />
-</a>
-
-#### [Konyx](https://konyx-gold.vercel.app) · Next.js template store
-
-Senior-quality industry templates so AI-assisted builds start designed, not generic.
-
-`Next.js` `templates` `design systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <a href="https://editlayer-landing.vercel.app">
   <img src="./assets/editlayer.jpg" alt="EditLayer" width="100%" />
 </a>
@@ -115,19 +105,6 @@ Senior-quality industry templates so AI-assisted builds start designed, not gene
 Add `?edit=true` to a Next.js site. Edit copy on the page. Publish. Vercel redeploys.
 
 `Next.js` `npm` `inline editing`
-
-</td>
-<td width="50%" valign="top">
-
-<br />
-
-**[Pocketrun](https://github.com/zlatkomarjanovic/Pocketrun)** · mobile control for local agents  
-PTY over WebSocket. Drive Cursor / Claude Code from your phone.
-
-**[ByZ](https://www.framer.com/@zlatkom/)** · Framer Marketplace  
-Components used by **3,000+** builders.
-
-`agents` `Framer` `open source`
 
 </td>
 </tr>
@@ -202,60 +179,192 @@ Program discovery, CMS, SEO, and local search. Ranked **#1 for "EGC NYC"** and d
 
 ---
 
-## How I work
+## Process
 
-| | |
-| --- | --- |
-| **AI → production** | Take a Cursor / Claude Code / Lovable / Bolt / v0 prototype and make it a real product. Auth, data, payments, deploy, the unglamorous parts. |
-| **Stay as owner** | I do not disappear after launch. I keep shipping, fixing, and owning the roadmap. |
-| **Full stack** | Next.js, React, TypeScript, Supabase, PostgreSQL, Firebase, Stripe, OpenAI / Claude / Gemini, Vercel, n8n. |
-| **Craft when it matters** | Design systems, motion, SEO, and conversion. Webflow and Framer when the job is a marketing surface, not as the identity. |
+How a prototype becomes a product I can keep owning.
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**01 · Intake**
+
+Cursor, Claude Code, Lovable, Bolt, v0, Replit, Base44. I read the prototype, the stack, and what is actually broken.
+
+</td>
+<td width="25%" valign="top">
+
+**02 · Productionize**
+
+Auth, database, APIs, payments, permissions, deploy. The unglamorous layer that makes it real.
+
+</td>
+<td width="25%" valign="top">
+
+**03 · Ship**
+
+Vercel, Stripe, Supabase / Firebase, webhooks. Live URL, analytics, the first real users.
+
+</td>
+<td width="25%" valign="top">
+
+**04 · Own**
+
+I stay. Roadmap, fixes, SEO, automation. Long-term product seat, not a handoff.
+
+</td>
+</tr>
+</table>
 
 <br />
 
+---
+
 ## Experience
 
-- **7+ years** shipping websites, products, and growth systems
-- **120+ projects** across SaaS, healthcare, wellness, real estate, and nonprofits
-- **$100K+** earned across platforms · **50+** five-star reviews
-- **Upwork** 100% Job Success · **$50/hr** · long-term product seats
-- **Framer Marketplace** developer · Preflight + CMS Forge + 3K+ component users
-- **ZedNova** founder · studio for product and web work
-- Based in Bosnia (CET) · full-time, 30+ hrs/week
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-> *"The best web developer you could ever ask for — he did an amazing job with our website and we will be working with him in the future for more projects."*
->
-> **Alexander Karima** · Co-founder, [Mavesta Media](https://mavestamedia.com/)
+### 7+ years
+
+Websites, products, and growth systems shipped end to end.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 120+ projects
+
+SaaS, healthcare, wellness, real estate, nonprofits.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 80+ five-star
+
+Reviews across Upwork, Fiverr, Contra, and LinkedIn.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 100% JSS
+
+Upwork Job Success. Long-term product seats.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### Marketplace
+
+Preflight + CMS Forge. Framer plugins in production.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ZedNova
+
+Founder. Studio for product and web work.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-1f7a4d?style=for-the-badge" alt="5 stars" />
+
+<br />
+
+**“The best web developer you could ever ask for. He did an amazing job with our website and we will be working with him in the future for more projects. Highly recommend Zlatko for any high-end website needs.”**
+
+Alexander Karima · Co-founder, [Mavesta Media](https://mavestamedia.com/)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## Stack
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**AI & agents**
+
+`Cursor` `Claude Code` `OpenAI` `Claude` `Gemini` `MCP` `Lovable` `Bolt` `v0`
+
+</td>
+<td width="25%" valign="top">
+
+**App layer**
+
+`Next.js` `React` `TypeScript` `JavaScript` `Node.js` `Astro` `Tailwind` `HTML / CSS`
+
+</td>
+<td width="25%" valign="top">
+
+**Data & auth**
+
+`Supabase` `Firebase` `PostgreSQL` `MongoDB` `Prisma` `REST APIs` `GraphQL` `Webhooks`
+
+</td>
+<td width="25%" valign="top">
+
+**Payments & infra**
+
+`Stripe` `Vercel` `GitHub` `n8n` `Make` `WebSockets` `GA4`
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+**Design & motion**
+
+`Figma` `GSAP` `Three.js` `Framer Motion`
+
+</td>
+<td width="25%" valign="top">
+
+**Web platforms**
+
+`Webflow` `Framer` `Shopify` `CMS`
+
+</td>
+<td width="25%" valign="top">
+
+**Growth**
+
+`SEO` `AEO` `CRO` `PageSpeed`
+
+</td>
+<td width="25%" valign="top">
+
+**Where I live**
+
+Bosnia · CET · 30+ hrs / week
+
+</td>
+</tr>
+</table>
 
 <br />
 
 <div align="center">
 
-### Stack
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-
-<br /><br />
-
 <a href="https://www.linkedin.com/in/zlatkomarjanovic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/thezlatkom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://upwork.com/freelancers/webflowzlatko"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 <a href="https://www.framer.com/@zlatkom/"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" /></a>
-
-<br /><br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zlatkomarjanovic&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1f7a4d&icon_color=1f7a4d" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatkomarjanovic&layout=compact&hide_border=true&theme=dark&langs_count=8&bg_color=0d1117&title_color=1f7a4d" alt="Top languages" />
 
 </div>
